@@ -10,9 +10,9 @@
 <section class="conteudo-principal"></section>
 <h2 class="titulo-principal">Meus objetivos do ano<span>_</span></h2>
 <div class="botoes">
-<button class="botao">Cursos na Alura</button>
-<button class="botao">Criar projetos em JavaScript</button>
-<button class="botao">Criar um portfolio</button>
+<button class="botao">Vestibular</button>
+<button class="botao">Trabalhar</button>
+<button class="botao">Desenhar melhor</button>
 <button class="botao">Atualizar meu curriculo</button>
 
 </div>
